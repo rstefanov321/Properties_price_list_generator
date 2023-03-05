@@ -8,4 +8,6 @@ Once the results are in, the code uses a link of a Google Forms page, where each
 - price per month
 - link to the offer page
 
-Once done, you can click on Link to Sheets and create your own Excel table not needing to type in all the data yourself. 
+I have saved those values in lists for offline use, as seen in the code. 
+
+Once done, you can click on Link to Sheets and create your own Excel table with the values not needing to type in all the data yourself. 
